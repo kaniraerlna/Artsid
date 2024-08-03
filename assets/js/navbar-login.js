@@ -93,7 +93,7 @@ class Navbar extends HTMLElement {
                               transform: translate3d(10px, 50px, 0px);" 
                         data-popper-placement="bottom-end">
                       <li><a class="dropdown-item" href="my-collection.html">My Collection</a></li>
-                      <li><a class="dropdown-item" href="settings.html">Settings</a></li>
+                      <li><a class="dropdown-item" href="#">Settings</a></li>
                       <li><hr class="dropdown-divider"></li>
                       <li><a class="dropdown-item" href="index.html">Sign out</a></li>
                     </ul>

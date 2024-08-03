@@ -81,7 +81,7 @@ class Navbar extends HTMLElement {
                     <a class="nav-link text-dark fw-semibold" href="artwork.html">Artworks</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-dark fw-semibold" href="partnership.html">Partnership</a>
+                    <a class="nav-link text-dark fw-semibold" data-bs-toggle="modal" data-bs-target="#login">Partnership</a>
                   </li>
                   <li>
                     <button type="button" class="btn btn-outline-dark btn-sm rounded-pill px-4" data-bs-toggle="modal" data-bs-target="#login">Log In</button>
